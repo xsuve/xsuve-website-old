@@ -13,8 +13,10 @@ This one was the previous website for the XSUVE agency. It featured a clean desi
 ### Custom PHP Framework
 It used a super basic custom PHP framework that can be found here: https://github.com/panique/mini
 
-### Year Active
+### Years Active
 The landing page design was active for a while in 2019. The website has a new interface now. [https://xsuve.com/](https://xsuve.com/)
+
+---
 
 ### Other Links
 * Personal website: [https://xsuve.com/](https://xsuve.com/)
